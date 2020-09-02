@@ -34,14 +34,14 @@ def sorted_matrix
     "Grapes",
     "Potatoes",
     "Strawberries"
-  ],
+    ],
   CONVENTIONAL_PRODUCE = [
     "Eggplant",
     "Grapefruit",
     "Oranges",
     "Pineapple",
     "Watermelon"
-  ]
+    ]
   ]
 end
 
